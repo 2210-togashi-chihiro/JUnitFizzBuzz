@@ -35,3 +35,9 @@ public class FizzBuzz {
 	    }
 
 }
+
+
+
+/*
+https://digital-literacy88.com/junit-assertequals/
+*/
